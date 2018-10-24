@@ -28,7 +28,7 @@ Basically anything I feel is a good recommendation for anything out there.
 * Disk Cleanup - yes, the default Windows one
 * Defragment and Optimize Drives - yes, the default Windows one
 * [CCleaner](https://www.ccleaner.com/) - exercise caution when cleaning registry, it shouldn't always be cleaned, and if you do, always save a backup
-* [CCEnhancer](https://singularlabs.com/software/ccenhancer/) - a very useful add-on for CCleaner, adds more things to clean by CCleaner
+* [CCEnhancer](https://singularlabs.com/software/ccenhancer/) - a very useful add-on for CCleaner, adds more things to clean by CCleaner. Exercise caution and check out what the new additions add before actually cleaning them in CCleaner.
 
 ## Tools
 
