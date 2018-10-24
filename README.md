@@ -1,6 +1,11 @@
 # Recommendations
 Basically anything I feel is a good recommendation for anything out there.
 
+## Downloads
+
+* [qBittorrent](https://www.qbittorrent.org) - my go-to torrent client, you can easily google "qbittorrent vs utorrent" if you're curious
+* [JDownloader 2](http://jdownloader.org/jdownloader2) - very useful, but a bit on the heavier side for memory usage, since it's Java-based, but shouldn't be much of a concern if you have 8+ GB RAM.
+
 ## Chrome
 
 ### Privacy/Security
@@ -32,4 +37,4 @@ Basically anything I feel is a good recommendation for anything out there.
 
 ## Tools
 
-* [SpaceSniffer](http://www.uderzo.it/main_products/space_sniffer/) - lets you visualize your disk space and see what occupies your space, I prefer this over WinDirStat, but that also has it's uses. I recommend running SpaceSniffer as admin.
+* [SpaceSniffer](http://www.uderzo.it/main_products/space_sniffer/) - lets you visualize your disk space and see what occupies your space. I prefer this over [WinDirStat](https://windirstat.net/), but that also has it's uses since it shows you it in a list view. I recommend running SpaceSniffer as admin.
