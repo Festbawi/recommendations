@@ -30,8 +30,10 @@
 * [PC Decrapifier](https://www.pcdecrapifier.com/) - removes bloatware
 * Disk Cleanup - yes, the default Windows one
 * Defragment and Optimize Drives - yes, the default Windows one
+* [Defraggler](https://www.ccleaner.com/defraggler) - slower, but safer than default Windows
 * [CCleaner](https://www.ccleaner.com/) - exercise caution when cleaning registry, it shouldn't always be cleaned, and if you do, always save a backup
 * [CCEnhancer](https://singularlabs.com/software/ccenhancer/) - a very useful add-on for CCleaner, adds more things to clean by CCleaner. Exercise caution and check out what the new additions add before actually cleaning them in CCleaner.
+* [Glary Utilities](https://www.glarysoft.com/) - all in one tool set, including some cleaning tools, software updates, and so many more
 
 # Media
 
