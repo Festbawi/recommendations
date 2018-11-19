@@ -21,7 +21,7 @@
 * [Nano Defender](https://jspenguin2017.github.io/uBlockProtector/#extra-installation-steps-for-ublock-origin) - similar to uBO Extra, but adds more, also helps with anti-adblock ⭐
 * [Privacy Badger](https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp) - tracker protection
 * [HTTPS Everywhere](https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp?hl=en) - redirects you to HTTPS version of site if it exists, more complex and customizable, but heavier on memory usage vs Smart HTTPS
-* [Smart HTTPS](https://chrome.google.com/webstore/detail/smart-https/cmleijjdpceldbelpnpkddofmcmcaknm) - lighter on memory, see https://www.reddit.com/r/firefox/comments/66bhmd/https_everywhere_vs_smart_https/?ref=share&ref_source=link
+* [Smart HTTPS](https://chrome.google.com/webstore/detail/smart-https/cmleijjdpceldbelpnpkddofmcmcaknm) - lighter on memory, see this [-reddit thread](https://www.reddit.com/r/firefox/comments/66bhmd/https_everywhere_vs_smart_https/?ref=share&ref_source=link)
 
 # Downloads
 
