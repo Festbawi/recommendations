@@ -40,6 +40,7 @@
 
 # Media
 
+* [FastStone Image Viewer](http://www.faststone.org/) - I used to like Picasa from Google, but it was discontinued, so I went on a search for an image viewer that was fast, and used my entire screen, but without the editing capabilities immediately available, but also quickly accessible, which is FastStone.
 * [VLC](https://www.videolan.org/vlc/index.html) - good enough for most purposes, I don't use it though, since I use the ones mentioned below
 * [AIMP](http://www.aimp.ru/) - I prefer this over VLC for playing music
 * [mpv](https://mpv.io/) - My go-to for playing videos (anime mostly), not the most user friendly, interface isn't complete, no auto-update, not all features are there, but I'd still use it over VLC any day. It isn't a clear cut package too, so if you want Windows builds, you can find them [here](https://sourceforge.net/projects/mpv-player-windows/files) or [here](https://mpv.srsfckn.biz/). ⭐
