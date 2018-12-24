@@ -1,7 +1,8 @@
 # Table of Contents
 * [Chrome](#chrome)
 * [Downloads](#downloads)
-* [Maintenance](maintenance)
+* [Maintenance](#maintenance)
+* [Programming](#programming)
 * [Security](#security)
 * [Utilities](#utilities)
 
@@ -44,6 +45,11 @@
 * [VLC](https://www.videolan.org/vlc/index.html) - good enough for most purposes, I don't use it though, since I use the ones mentioned below
 * [AIMP](http://www.aimp.ru/) - I prefer this over VLC for playing music
 * [mpv](https://mpv.io/) - My go-to for playing videos (anime mostly), not the most user friendly, interface isn't complete, no auto-update, not all features are there, but I'd still use it over VLC any day. It isn't a clear cut package too, so if you want Windows builds, you can find them [here](https://sourceforge.net/projects/mpv-player-windows/files) or [here](https://mpv.srsfckn.biz/). ⭐
+
+# Programming
+
+* [Sublime Text](https://www.sublimetext.com/) - my most preferred light text editor, offers a huge array of packages to customize experience
+* [Visual Studio Code](https://code.visualstudio.com/) - my most preferred heavier text editor
 
 # Security
 
