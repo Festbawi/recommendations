@@ -6,7 +6,7 @@
 * [Security](#security)
 * [Utilities](#utilities)
 
-⭐ - will always have
+⭐ - a personal necessity
 
 # Chrome
 
@@ -48,7 +48,7 @@
 
 # Programming
 
-* [Sublime Text](https://www.sublimetext.com/) - my most preferred light text editor, offers a huge array of packages to customize experience
+* [Sublime Text](https://www.sublimetext.com/) - my most preferred light text editor, offers a huge array of packages to customize experience ⭐
 * [Visual Studio Code](https://code.visualstudio.com/) - my most preferred heavier text editor
 
 # Security
