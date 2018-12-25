@@ -48,6 +48,9 @@
 
 # Programming
 
+* [Clink](https://mridgers.github.io/clink/) - Improved native Windows terminal
+* [Fira Code](https://github.com/tonsky/FiraCode/releases) - my favorite coding font
+* [Gnu on Windows](https://github.com/bmatzelle/gow) - unix command line utilities in native Windows terminal
 * [Sublime Text](https://www.sublimetext.com/) - my most preferred light text editor, offers a huge array of packages to customize experience ⭐
 * [Visual Studio Code](https://code.visualstudio.com/) - my most preferred heavier text editor
 
