@@ -2,11 +2,15 @@
 * [Chrome](#chrome)
 * [Downloads](#downloads)
 * [Maintenance](#maintenance)
+* [Media](#media)
 * [Programming](#programming)
 * [Security](#security)
 * [Utilities](#utilities)
 
 ⭐ - a personal necessity
+
+# Anime
+* [Tachiyomi](https://github.com/inorichi/tachiyomi) - open source, no ads, easy to use manga reader + downloader. Supports a lot of sites as well.
 
 # Chrome
 
