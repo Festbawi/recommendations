@@ -18,6 +18,7 @@
 
 * [Dynamic New Tab](https://chrome.google.com/webstore/detail/chjlpggajdfaplimlgfmipjokhjdnakc) - if you want a wallpaper in your new tab that changes every n minutes. You can fetch wallpapers from your local directory or even an imgur gallery and so on.
 * [Iridium](https://github.com/ParticleCore/Iridium) - better Youtube, also available in userscript, and as a Chrome/Firefox extension
+* [Audio Only Youtube](https://chrome.google.com/webstore/detail/audio-only-youtube/pkocpiliahoaohbolmkelakpiphnllog) - "Enables you to disable video streams on youtube and listen audio." Saves bandwidth as well, unlike other extensions that still load the video but just don't show it. Great if you're trying to save bandwidth, or you have a potato that lags with videos.
 
 ## Privacy/Security
 
