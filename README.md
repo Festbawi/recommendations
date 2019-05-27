@@ -7,7 +7,7 @@
 * [Maintenance](#maintenance)
 * [Media](#media)
 * [Programming](#programming)
-  * []
+  * [Artificial Intelligence](#artificial-intelligence)
 * [Security](#security)
 * [Utilities](#utilities)
 
@@ -63,7 +63,7 @@
 * [Sublime Text](https://www.sublimetext.com/) - my most preferred light text editor, offers a huge array of packages to customize experience ⭐
 * [Visual Studio Code](https://code.visualstudio.com/) - my most preferred heavier text editor
 
-## Artificial Intelligence/Machine Learning
+## Artificial Intelligence
 
 * [Netron](https://github.com/lutzroeder/netron) - visualizes machine learning models, like those from Keras
 
