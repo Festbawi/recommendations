@@ -57,6 +57,7 @@
 
 # Programming
 
+* [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/) - Not software, but very useful article for organizing git branches, also search about semantic versioning if you're interested
 * [Clink](https://mridgers.github.io/clink/) - Improved native Windows terminal
 * [Fira Code](https://github.com/tonsky/FiraCode/releases) - my favorite coding font
 * [Gnu on Windows](https://github.com/bmatzelle/gow) - unix command line utilities in native Windows terminal
