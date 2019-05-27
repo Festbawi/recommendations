@@ -1,9 +1,13 @@
 # Table of Contents
+* [Anime](#anime)
 * [Chrome](#chrome)
+  * [Customization](#customization)
+  * [Privacy/Security](#privacysecurity)
 * [Downloads](#downloads)
 * [Maintenance](#maintenance)
 * [Media](#media)
 * [Programming](#programming)
+  * []
 * [Security](#security)
 * [Utilities](#utilities)
 
@@ -58,6 +62,10 @@
 * [Gnu on Windows](https://github.com/bmatzelle/gow) - unix command line utilities in native Windows terminal
 * [Sublime Text](https://www.sublimetext.com/) - my most preferred light text editor, offers a huge array of packages to customize experience ⭐
 * [Visual Studio Code](https://code.visualstudio.com/) - my most preferred heavier text editor
+
+## Artificial Intelligence/Machine Learning
+
+* [Netron](https://github.com/lutzroeder/netron) - visualizes machine learning models, like those from Keras
 
 # Security
 
