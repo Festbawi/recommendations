@@ -1,5 +1,5 @@
 # Table of Contents
-* [Anime](#anime)
+* [Android](#android)
 * [Chrome](#chrome)
   * [Customization](#customization)
   * [Privacy/Security](#privacysecurity)
@@ -13,8 +13,9 @@
 
 ⭐ - a personal necessity
 
-# Anime
-* [Tachiyomi](https://github.com/inorichi/tachiyomi) - open source, no ads, easy to use manga reader + downloader. Supports a lot of sites as well.
+# Android
+* [Tachiyomi](https://github.com/inorichi/tachiyomi) - open source, no ads, easy to use manga reader + downloader. Supports a lot of sites as well. ⭐
+* [Youtube Vanced](https://vanced.app/) - basically cracked Youtube, important: downloads, and **background playback** (i.e. play video/music while your phone screen's off or you're in another app) ⭐
 
 # Chrome
 
