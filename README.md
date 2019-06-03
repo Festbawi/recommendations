@@ -79,3 +79,4 @@
 
 * [SpaceSniffer](http://www.uderzo.it/main_products/space_sniffer/) - lets you visualize your disk space and see what occupies your space. I prefer this over [WinDirStat](https://windirstat.net/), but that also has it's uses since it shows you it in a list view. I recommend running SpaceSniffer as admin. ⭐
 * [SpeedCrunch](https://speedcrunch.org/) - replaces the default Windows calculator, sleek, themes, more functions, easy shortcuts, loads fast. ⭐
+* [CDBurnerXP](https://cdburnerxp.se/en/home) - simple to use CD/DVD burner, worked for me when Windows Explorer wouldn't
