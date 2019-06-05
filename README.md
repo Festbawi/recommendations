@@ -14,6 +14,7 @@
 ⭐ - a personal necessity
 
 # Android
+* [Messages by Google](https://messages.google.com/) - messaging/texting app by Google, used to be meh before, but they added more features and practically changed the UI a lot, best thing about this is a web interface [here](https://messages.google.com/web/) to be able to send emails through web.
 * [Tachiyomi](https://github.com/inorichi/tachiyomi) - open source, no ads, easy to use manga reader + downloader. Supports a lot of sites as well. ⭐
 * [Youtube Vanced](https://vanced.app/) - basically cracked Youtube, important: downloads, and **background playback** (i.e. play video/music while your phone screen's off or you're in another app) ⭐
 
