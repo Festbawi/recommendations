@@ -3,6 +3,7 @@
 * [Chrome](#chrome)
   * [Customization](#customization)
   * [Privacy/Security](#privacysecurity)
+* [Documents](#documents)
 * [Downloads](#downloads)
 * [Maintenance](#maintenance)
 * [Media](#media)
@@ -35,6 +36,10 @@
 * [HTTPS Everywhere](https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp?hl=en) - redirects you to HTTPS version of site if it exists, more complex and customizable, but heavier on memory usage vs Smart HTTPS
 * [Smart HTTPS](https://chrome.google.com/webstore/detail/smart-https/cmleijjdpceldbelpnpkddofmcmcaknm) - lighter on memory, see this [reddit thread](https://www.reddit.com/r/firefox/comments/66bhmd/https_everywhere_vs_smart_https/?ref=share&ref_source=link)
 
+# Documents
+
+* [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader.html) - Simple and opens pdf files really fast, no additional features, my go-to PDF viewer. Doesn't have editing capabilities if you're going for that, but I'd still have this as default even if I did need to edit. ⭐
+
 # Downloads
 
 * [qBittorrent](https://www.qbittorrent.org) - my go-to torrent client, you can easily google "qbittorrent vs utorrent" if you're curious. ⭐
@@ -45,26 +50,26 @@
 * [PC Decrapifier](https://www.pcdecrapifier.com/) - removes bloatware
 * Disk Cleanup - yes, the default Windows one
 * Defragment and Optimize Drives - yes, the default Windows one
-* [Defraggler](https://www.ccleaner.com/defraggler) - slower, but safer than default Windows
+* [Defraggler](https://www.ccleaner.com/defraggler) - slower, but safer than default Windows Defrag
 * [CCleaner](https://www.ccleaner.com/) - exercise caution when cleaning registry, it shouldn't always be cleaned, and if you do, always save a backup ⭐
 * [CCEnhancer](https://singularlabs.com/software/ccenhancer/) - a very useful add-on for CCleaner, adds more things to clean by CCleaner. Exercise caution and check out what the new additions add before actually cleaning them in CCleaner. ⭐
 * [Glary Utilities](https://www.glarysoft.com/) - all in one tool set, including some cleaning tools, software updates, and so many more
 
 # Media
 
-* [FastStone Image Viewer](http://www.faststone.org/) - I used to like Picasa from Google, but it was discontinued, so I went on a search for an image viewer that was fast, and used my entire screen, but without the editing capabilities immediately available, but also quickly accessible, which is FastStone.
-* [VLC](https://www.videolan.org/vlc/index.html) - good enough for most purposes, I don't use it though, since I use the ones mentioned below
-* [AIMP](http://www.aimp.ru/) - I prefer this over VLC for playing music
-* [mpv](https://mpv.io/) - My go-to for playing videos (anime mostly), not the most user friendly, interface isn't complete, no auto-update, not all features are there, but I'd still use it over VLC any day. It isn't a clear cut package too, so if you want Windows builds, you can find them [here](https://sourceforge.net/projects/mpv-player-windows/files) or [here](https://mpv.srsfckn.biz/). ⭐
+* [FastStone Image Viewer](http://www.faststone.org/) - My go-to default photo viewer. Opens fast, has quick editor capabilities, can be confusing at start but efficient when you learn it. ⭐
+* [AIMP](http://www.aimp.ru/) - My go-to music player. ⭐
+* [mpv](https://mpv.io/) - My go-to video player. Not the most user friendly, interface isn't complete, no auto-update, not all features are there, but I'd still use it. It isn't a clear cut package too, so if you want Windows builds, you can find them [here](https://sourceforge.net/projects/mpv-player-windows/files) or [here](https://mpv.srsfckn.biz/). ⭐
+* [VLC](https://www.videolan.org/vlc/index.html) - if you want an all-in-one music/video player that's more user-friendly than mpv, here ya go
 
 # Programming
 
 * [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/) - Not software, but very useful article for organizing git branches, also search about semantic versioning if you're interested
+* [Visual Studio Code](https://code.visualstudio.com/) - yep ⭐
+* [Fira Code](https://github.com/tonsky/FiraCode/releases) - my favorite coding font ⭐
+* [Sublime Text](https://www.sublimetext.com/) - my preferred editor for when my machine has less than 8 GB RAM
 * [Clink](https://mridgers.github.io/clink/) - Improved native Windows terminal
-* [Fira Code](https://github.com/tonsky/FiraCode/releases) - my favorite coding font
 * [Gnu on Windows](https://github.com/bmatzelle/gow) - unix command line utilities in native Windows terminal
-* [Sublime Text](https://www.sublimetext.com/) - my most preferred light text editor, offers a huge array of packages to customize experience ⭐
-* [Visual Studio Code](https://code.visualstudio.com/) - my most preferred heavier text editor
 
 ## Artificial Intelligence
 
@@ -78,6 +83,7 @@
 
 # Utilities
 
+* [7-Zip](https://www.7-zip.org/) - compression software, free and without ADS or those annoying purchase prompts ⭐
 * [SpaceSniffer](http://www.uderzo.it/main_products/space_sniffer/) - lets you visualize your disk space and see what occupies your space. I prefer this over [WinDirStat](https://windirstat.net/), but that also has it's uses since it shows you it in a list view. I recommend running SpaceSniffer as admin. ⭐
 * [SpeedCrunch](https://speedcrunch.org/) - replaces the default Windows calculator, sleek, themes, more functions, easy shortcuts, loads fast. ⭐
 * [CDBurnerXP](https://cdburnerxp.se/en/home) - simple to use CD/DVD burner, worked for me when Windows Explorer wouldn't
