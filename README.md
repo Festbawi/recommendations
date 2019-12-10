@@ -64,7 +64,6 @@
 
 # Programming
 
-* [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/) - Not software, but very useful article for organizing git branches, also search about semantic versioning if you're interested
 * [Visual Studio Code](https://code.visualstudio.com/) - yep ⭐
 * [Fira Code](https://github.com/tonsky/FiraCode/releases) - my favorite coding font ⭐
 * [Sublime Text](https://www.sublimetext.com/) - my preferred editor for when my machine has less than 8 GB RAM
